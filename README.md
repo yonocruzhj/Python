@@ -33,10 +33,6 @@ Removal of IP addresses that are on the remove list: <br/>
 <img src="https://imgur.com/aePWHMj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Update file using revised list of IP addresses:  <br/>
 <img src="https://imgur.com/3DPxl7Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/cXn1upH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
