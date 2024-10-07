@@ -1,7 +1,7 @@
 <h1>Python: Updating Files</h1>
 
 <h2>Description</h2>
-For this project, I was tasked to create an algorithm to automate updating a file called "allow_list.txt" and remove IP addresses that should not have access to the contents of the file. The repository provides examples for various file operations, such as reading and writing to files and updating file permissions.
+For this guided project, I was tasked to create an algorithm to automate updating a file called "allow_list.txt" and remove IP addresses that should not have access to the contents of the file. The repository provides examples for various file operations, such as reading and writing to files and updating file permissions.
 
 
 <br />
